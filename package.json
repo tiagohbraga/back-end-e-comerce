@@ -1,0 +1,21 @@
+{
+  "name": "back-end-e-comerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "clear && node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagohbraga/back-end-e-comerce.git"
+  },
+  "author": "Tiago Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagohbraga/back-end-e-comerce/issues"
+  },
+  "homepage": "https://github.com/tiagohbraga/back-end-e-comerce#readme"
+}
