@@ -110,3 +110,4 @@ export const getAllPurchasesFromUserId =(userId: string)=>{
     })
     return console.table(userIdToSearch)
 }
+
